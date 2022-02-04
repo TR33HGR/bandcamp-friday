@@ -1,7 +1,5 @@
 # python-template
-Template for installable python package, with tox for unit tests & linting.
-
-Created following the [Packaging Python Projects](https://packaging.python.org/tutorials/packaging-projects/) tutorial
+Once installed, give access to command ``is_it_bandcamp_friday`` to open https://isitbandcampfriday.com/ in your browser.
 
 ## tox
 For tox, from the base directory, run the command:
